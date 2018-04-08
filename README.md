@@ -12,7 +12,7 @@ Welcome to the repo for OrbVenture - a simple, 3D rollerball game!
 
 2) Locate the Assets/_Scenes/OrbVenture/OrbVenture.unity file, and open it in the Unity3D engine.
 
-3) Run the game, and enjoy!
+3) Run the game, and play using the ASWD and arrow keys on your keyboard!
 
 <hr>
 
